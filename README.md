@@ -44,6 +44,3 @@ The most crucial factors for forecasting customer default, according to a featur
 
 # 📋 Execution Instruction
 The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
-
-# 📜 Credits
-Sujeet Kumar | Data Scientist | Machine Learning Engineer | Data Science enthusiast
